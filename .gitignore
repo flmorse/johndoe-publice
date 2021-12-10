@@ -1,0 +1,6 @@
+venv
+config.env
+__pycache__
+*.session
+test*.*
+splfil/
